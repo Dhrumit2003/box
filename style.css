@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(13, 123, 143);
+}
+div{
+    position: absolute;
+    top: 5%;
+    left: 13%;
+    font-size: 30px;
+    transform: translate(-50%,-50%);
+}
+.text{
+    background-image: linear-gradient(to left,orange,pink);
+    -webkit-backdrop-clips:text ;
+    -webkit-text-fill-color: brown;
+}

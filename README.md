@@ -1,3 +1,3 @@
 # box
  
-![Screenshot (16)](https://github.com/Dhrumit2003/box/assets/141128230/e3d23ef1-dc15-4c9c-a63f-c0f778b34f79)
+![Screenshot](https://github.com/Dhrumit2003/box/assets/141128230/ecb71013-95bd-4afe-9114-24a4827a441c)
